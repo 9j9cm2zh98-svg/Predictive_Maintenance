@@ -180,6 +180,8 @@ streamlit run app.py
 ```
 
 Open your browser at **http://localhost:8501**
+or
+deployed link - https://predictivemaintenance-bgfg5842ukmunskfqgx9bm.streamlit.app
 
 ---
 
